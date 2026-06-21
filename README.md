@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Idris Salavatov @kiteshiki
-- 👀 I develop Frontend apps
-- 🌱 I’m currently learning ssr frameworks
-- 📫 How to reach me: idris.feltz@gmail.com / t.me/kiteshi
+### Hi, I'm Idris 👋
 
-<!---
-Kiteshiki/Kiteshiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Senior Frontend Developer** · React & TypeScript · 8 years of commercial experience.
+Currently building web & Smart TV apps at Amdocs (global telecom product).
+
+- 🚀 I take features end-to-end — from architecture to release
+- ⚡ Performance-focused: cut a Smart TV build from 5 min to 40 sec (×7) and killed freezes on low-end devices
+- 🧩 Care about typed, maintainable code and good UX
+- 🌍 English C1, used to distributed international teams
+
+**Tech:** React · TypeScript · Next.js · Redux / Redux-Observable · Zustand · Node.js · Docker · Sentry · Grafana
+
+📫 Telegram [@kiteshi](https://t.me/kiteshi) · idris.feltz@gmail.com
